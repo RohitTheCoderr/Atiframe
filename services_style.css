@@ -267,13 +267,14 @@ color: #54E346;
 }
 .btnReadMore{
     padding: 10px 14px;
-    background: #000;
+    background: #54E346;
     border-radius: 5px;
 }
 .btnReadMore:hover{
     padding: 10px 14px;
     background: white;
     border-radius: 5px;
+    outline: none;
     a{
         color: blue;
     }
